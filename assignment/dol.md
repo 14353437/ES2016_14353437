@@ -2,34 +2,34 @@
 #### 修改example1:
 在example1中生产者与消费者通过square.c模块相连，square.c就是对输入的数字进行平方，如下图为square.c中重点代码部分：
 
-![Alt text](./2W7H`V~EFMVGGTZZ~UA.png)
+![Alt text](./1.png)
 
 
 所以我修改其中的平方为立方，如下图：
-![Alt text](./6EYNBRIW5U7~]{WG]ZSM.png)
+![Alt text](./2.png)
 
 
 修改后运行程序结果如下：
-![Alt text](./N91IP8GT~ZQP{HM52MNY6_L.png)
+![Alt text](./6.png)
 .dot图如下：（由于我没修改文件名，所以文件名仍为square）
-![Alt text](./HFTN~I@AY[I4W1B6HE0UYVK.png)
+![Alt text](./5.png)
 
 
 #### 修改example2:
 在原example2中，设定平方的迭代次数为3，如下图：
-![Alt text](./NBZWMZKEXE4HXK`@NW]F$S.png)
+![Alt text](./7.png)
 
 
-![Alt text](./DK3F0~@HMRI55Q4R${5590I.png)
+![Alt text](./4.png)
 
 所以我将3改成了2，就令square的迭代次数改为了两次：如下图：
-![Alt text](./QZUG$WPI_9S}INADNCGP1.png)
+![Alt text](./8.png)
 
 修改后程序运行结果如下：
-![Alt text](./]B0UADKC7HVV@NG$MAVCP.png)
+![Alt text](./3.png)
 
 .dot图如下：
-![Alt text](./RT[4U`X69S0[OTTBX$GO.png)
+![Alt text](./9.png)
 
 
 ### 实验感想
