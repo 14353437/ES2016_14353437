@@ -42,7 +42,7 @@ $ source /opt/ros/jade/setup.bash
 a、在Terminal中输入下诉命令。该命令是初始化ROS环境，全局参数，以及每个节点注册等工作。    
   执行语句：$ roscore
    执行后的截图如下：
-                 ![Alt text](./picture2.png)  
+                 ![Alt text|center](./picture2.png)  
        
 
 b、再打开一个Terminal，输入命令。开启一个小乌龟界面。   
@@ -54,7 +54,7 @@ c、再打开一个Terminal，输入命令。接受键盘输入，控制小乌�
    执行语句：$ rosrun turtlesim turtle_teleop_key
 d、选中最后打开的Terminal，键盘按下上下左右按键，可看到控制小乌龟移动。如下图所示：
 
-                   ![Alt text](./picture4.png)
+                 ![Alt text](./picture4.png)
 
 实验问题解决与实验感想：
 1. ROS的安装还是比较顺利的，按着流程一步一步来，进行完毕，就可以安装成功了。
