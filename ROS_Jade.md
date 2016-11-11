@@ -2,7 +2,7 @@
 
 1.  配置 Ubuntu 软件仓库
    配置 Ubuntu 软件仓库(repositories) 以允许 "restricted"、"universe" 和 "multiverse"这三种安装模式。只要在下图中所示的的关于"restricted"、"universe" 和 "multiverse"都打勾，其它保持默认设置就可以了。
-          ![Alt text](./picture1.png)
+          \![Alt text](./picture1.png)
 
 
 2. 添加 sources.list
@@ -42,13 +42,13 @@ $ source /opt/ros/jade/setup.bash
 a、在Terminal中输入下诉命令。该命令是初始化ROS环境，全局参数，以及每个节点注册等工作。    
   执行语句：$ roscore
    执行后的截图如下：
-           ![Alt text](./picture2.png)  
+           \![Alt text](./picture2.png)  
        
 
 b、再打开一个Terminal，输入命令。开启一个小乌龟界面。   
    执行语句：$ rosrun turtlesim turtlesim_node
    执行后的截图如下：
-         ![Alt text](./picture3.png)
+         \![Alt text](./picture3.png)
 
 c、再打开一个Terminal，输入命令。接受键盘输入，控制小乌龟移动。 
    执行语句：$ rosrun turtlesim turtle_teleop_key
