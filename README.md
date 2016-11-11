@@ -40,12 +40,12 @@ sudo wget http://www.tik.ee.ethz.ch/~shapes/downloads/dol_ethz.zip
 -  运行configure(能根据系统的环境设置一下参数，用于编译)   
       \$	../configure CXX=g++ --disable-async-updates
                 下图为运行configure之后的截图
-                \ ![Alt text](./1.png)
+![Alt text](./1.png)
 - 编译   \$	sudo make install
 -  编译完后文件目录如下(\$ cd ..        \$ ls）
-               \![Alt text](./2.png)
+![Alt text](./2.png)
 - 记录当前的工作路径(会输出当前所在路径，记下来，待会有用)  \$	pwd
-               \![Alt text](./3.png)
+![Alt text](./3.png)
                 这里表示我当前的工作路径为 /root/systemc-2.3.1
                 
 第五步：编译dol
